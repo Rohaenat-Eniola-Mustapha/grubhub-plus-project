@@ -78,7 +78,7 @@ Grubhub+ is a redesigned and fully developed food delivery app tailored for **un
 - Dark mode support
 
 ## 👥 Contributors
-- **Your Name** – UI/UX & Full-Stack Development
+- **Rohaenat Mustapha** – UI/UX & Full-Stack Development
 
 ## 📜 License
 This project is licensed under the MIT License.
