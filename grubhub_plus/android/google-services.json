@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "939675138519",
+    "project_id": "grubhub-7f734",
+    "storage_bucket": "grubhub-7f734.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939675138519:android:5f127b4230489542363392",
+        "android_client_info": {
+          "package_name": "com.example.grubhub_plus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939675138519-cuoqllm6k7457ni3t5evquk75l6odsd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlbtTdxm3QJNNvwk0WqJXLut0HpuX063U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939675138519-cuoqllm6k7457ni3t5evquk75l6odsd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
