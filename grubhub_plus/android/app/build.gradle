@@ -26,7 +26,7 @@ dependencies {
 
 android {
     namespace = "com.example.grubhub_plus"
-    compileSdk = flutter.compileSdkVersion
+    compileSdk 35
     ndkVersion = flutter.ndkVersion
 
     compileOptions {
